@@ -9,7 +9,7 @@ import re
 #               eg.,*/3  *      * * *   root    /root/Scripts/drafts/linetest.py    #
 #       3. If packet loss or latency is detected, script will generate an           #
 #       MTR result in /root/mtr_result.txt.                                         #
-#       4. Requirements python, linux, root privilege, MTR                          #
+#       4. Requirements python, KALI linux, root privilege, MTR                     #
 #       5. For bugs and question send a holler.                                     #
 #	6. Script will not check for incorrect variables like IP address, etc.	    #
 #  								  		    #	
