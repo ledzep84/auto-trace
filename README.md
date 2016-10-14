@@ -12,3 +12,5 @@ is a latency.
 
 This script will be able to give which specific hop causes that<br>
 latency.
+
+//Coded in 2015
